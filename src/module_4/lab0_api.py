@@ -3,7 +3,8 @@ import sys
 import requests
 
 def main():
-    print("Search the Art Institue of Chicago!")
+    
+    print("Search the Art Institute of Chicago!")
     artist = input("Artist: ")
 
     try:
